@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+
 <!--
 **GRAYSAMA/graysama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
