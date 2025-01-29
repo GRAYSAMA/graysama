@@ -41,7 +41,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=graysama&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graysama&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=graysama&theme=dark)
+
 
 ---
 
